@@ -2,18 +2,18 @@
 
 ## Welcome to my profile page, I am Yunus Ozbay, a passionate web developer located in France.
 
-### Here are the direct links to my projects and their repositories.
+## Here are the direct links to my projects and their repositories.
 
 
-###  https://the-foodie-hub.netlify.app/
-:arrow_right: https://github.com/yunusozbay/FoodieHub-frontend
-:arrow_right: https://github.com/yunusozbay/FoodieHub-backend
+### :bulb: https://the-foodie-hub.netlify.app/
+#### :arrow_right: https://github.com/yunusozbay/FoodieHub-frontend
+#### :arrow_right: https://github.com/yunusozbay/FoodieHub-backend
 
-### https://ironmatch.adaptable.app/
-:arrow_right: https://github.com/zsorosz/ironmatch
+### :bulb: https://ironmatch.adaptable.app/
+#### :arrow_right: https://github.com/zsorosz/ironmatch
 
-### https://yunusozbay.github.io/Yolo-Fighter/
-:arrow_right: https://github.com/yunusozbay/Yolo-Fighter
+### :bulb: https://yunusozbay.github.io/Yolo-Fighter/
+#### :arrow_right: https://github.com/yunusozbay/Yolo-Fighter
 
 <!--
 **yunusozbay/yunusozbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

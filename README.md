@@ -4,6 +4,9 @@
 
 ## Here are the direct links to my projects and their repositories.
 
+### :bulb: https://buckle-up.netlify.app/
+#### :arrow_right: https://github.com/zsorosz/buckle-up_frontend
+#### :arrow_right: https://github.com/yunusozbay/buckle-up_backend
 
 ### :bulb: https://the-foodie-hub.netlify.app/
 #### :arrow_right: https://github.com/yunusozbay/FoodieHub-frontend
